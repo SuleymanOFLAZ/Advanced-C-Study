@@ -1,0 +1,1 @@
+-Wall -I ../sockLib -c client1.c -o client1.o

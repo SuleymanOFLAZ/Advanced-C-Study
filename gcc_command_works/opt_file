@@ -1,0 +1,1 @@
+-Wall -O3 -fsigned-char -DMY_MACRO -o NEW.out
